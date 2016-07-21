@@ -1,17 +1,17 @@
 # Site settings
-title: Microdust
-header-img: "img/autumn2.jpg"
+title: QingBLog
+header-img: "img/city.jpg"
 tagline: "诸厦所亡"  
-description: "在遙遠的地方 一切虔誠終必相遇"  
+description: "让我们翻开维吉尔的诗来占卜吧"  
 baseurl: "/blog"
-url: "http://azeril.me"  
+url: "https://transienthm.github.io/blog/"  
 #url: "http://localhost:4000"
 
 # About/contact
 owner: 
   name: "transienthm"
   email: transienthm@gmail.com
-  bio: "明朝即長路 惜取此時心"
+  bio: "问君无乃求之与，答我不然聊尔耳。"
 
 # Data
 gavatar: http://dreamofbook.qiniudn.com/Az..png
